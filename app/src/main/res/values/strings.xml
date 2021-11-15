@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment_Nav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag1">Welcome to Fragment1</string>
+    <string name="frag2">Welcome to Fragment2</string>
+    <string name="frag3">Welcome to Fragment3</string>
+    <string name="frag4">Welcome to Fragment4</string>
+    <string name="btn1_text">Change Background Color</string>
+    <string name="btn2_text">Next Fragment</string>
+    <string name="frag4_btn">Jump Fragment1</string>
+</resources>
